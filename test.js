@@ -1,7 +1,7 @@
 const assert = require('assert');
 
 function testFunction() {
-  return 100;
+  return 1000;
 }
 
 console.log('Executed tests');
